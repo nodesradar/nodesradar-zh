@@ -1,6 +1,6 @@
 # 免费节点雷达 · 每 6 小时实测的免费节点
 
-> 最后更新：2026-11-14 06:29（北京时间）
+> 最后更新：2026-11-14 10:59（北京时间）
 
 每天从公开渠道收集免费的 V2Ray、VLESS、VMess、Shadowsocks、SSR、Trojan、Hysteria2 节点，逐个通过节点访问 Google 做真实测试，按国家地区命名、按稳定性排序，提供 Clash、v2rayN、v2rayNG、小火箭、Hiddify、sing-box 可直接使用的订阅。
 
@@ -20,72 +20,72 @@
 
 | # | 节点 | 协议 | 延迟 🇯🇵 日本 | 延迟 🇸🇬 新加坡 | 速度 | 稳定 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇸🇬 新加坡 01 | ss | 312 ms | 265 ms | 13.43 MB/s | 28/28 |
-| 2 | 🇸🇬 新加坡 02 | ss | 357 ms | 303 ms | 13.63 MB/s | 28/28 |
-| 3 | 🇸🇬 新加坡 03 | ss | 358 ms | 276 ms | 13.39 MB/s | 28/28 |
-| 4 | 🇸🇬 新加坡 04 | ss | 383 ms | 274 ms | 13.07 MB/s | 28/28 |
-| 5 | 🇰🇷 韩国 01 | ss | 411 ms | 439 ms | 4.82 MB/s | 28/28 |
-| 6 | 🇸🇬 新加坡 05 | ss | 420 ms | 262 ms | 13.54 MB/s | 28/28 |
-| 7 | 🇰🇷 韩国 02 | ss | 422 ms | 434 ms | 19.62 MB/s | 28/28 |
-| 8 | 🇺🇸 美国 001 | ss | 469 ms | 673 ms | 8.58 MB/s | 28/28 |
-| 9 | 🇺🇸 美国 002 | ss | 478 ms | 1,045 ms | 9.95 MB/s | 28/28 |
-| 10 | 🇺🇸 美国 003 | ss | 492 ms | 730 ms | 9.17 MB/s | 28/28 |
-| 11 | 🇺🇸 美国 004 | ss | 499 ms | 929 ms | 9.61 MB/s | 28/28 |
-| 12 | 🇺🇸 美国 005 | ss | 512 ms | 893 ms | 6.52 MB/s | 28/28 |
-| 13 | 🇨🇦 加拿大 01 | ss | 587 ms | 1,079 ms | 4.35 MB/s | 28/28 |
-| 14 | 🇳🇱 荷兰 01 | ss | 739 ms | 799 ms | 4.04 MB/s | 28/28 |
-| 15 | 🇨🇦 加拿大 02 | ss | 746 ms | 1,299 ms | 6.03 MB/s | 28/28 |
-| 16 | 🇨🇦 加拿大 03 | ss | 759 ms | 1,237 ms | 5.72 MB/s | 28/28 |
-| 17 | 🇳🇱 荷兰 02 | ss | 771 ms | 597 ms | 3.78 MB/s | 28/28 |
-| 18 | 🇳🇱 荷兰 03 | ss | 785 ms | 594 ms | 4.29 MB/s | 28/28 |
-| 19 | 🇬🇧 英国 01 | ss | 795 ms | 967 ms | 4.35 MB/s | 28/28 |
-| 20 | 🇳🇱 荷兰 04 | ss | 810 ms | 581 ms | 3.81 MB/s | 28/28 |
-| 21 | 🇳🇱 荷兰 05 | ss | 817 ms | 651 ms | 3.86 MB/s | 28/28 |
-| 22 | 🇧🇬 保加利亚 01 | ss | 909 ms | 714 ms | 2.85 MB/s | 28/28 |
-| 23 | 🇧🇬 保加利亚 02 | ss | 956 ms | 903 ms | 2.84 MB/s | 28/28 |
-| 24 | 🇬🇧 英国 02 | ss | 1,034 ms | 780 ms | 4.43 MB/s | 28/28 |
-| 25 | 🇬🇧 英国 03 | ss | 1,088 ms | 1,015 ms | 4.31 MB/s | 28/28 |
-| 26 | 🇬🇧 英国 04 | ss | 1,098 ms | 1,000 ms | 3.79 MB/s | 28/28 |
-| 27 | 🇩🇪 德国 01 | ss | 1,125 ms | 811 ms | 3.86 MB/s | 28/28 |
-| 28 | 🇬🇧 英国 05 | ss | 1,185 ms | 1,071 ms | 4.28 MB/s | 28/28 |
-| 29 | 🇳🇴 挪威 01 | ss | 2,549 ms | 1,107 ms | 3.2 MB/s | 28/28 |
-| 30 | 🇮🇳 印度 01 | ss | 3,034 ms | 2,118 ms | 0.75 MB/s | 28/28 |
+| 1 | 🇸🇬 新加坡 01 | ss | 314 ms | 706 ms | 11.04 MB/s | 28/28 |
+| 2 | 🇰🇷 韩国 01 | ss | 317 ms | 916 ms | 0.52 MB/s | 28/28 |
+| 3 | 🇸🇬 新加坡 02 | ss | 321 ms | 164 ms | 10.77 MB/s | 28/28 |
+| 4 | 🇸🇬 新加坡 03 | ss | 322 ms | 87 ms | 12.15 MB/s | 28/28 |
+| 5 | 🇸🇬 新加坡 04 | ss | 335 ms | 151 ms | 10.83 MB/s | 28/28 |
+| 6 | 🇸🇬 新加坡 05 | ss | 371 ms | 466 ms | 11.79 MB/s | 28/28 |
+| 7 | 🇰🇷 韩国 02 | ss | 391 ms | 1,943 ms | 0.15 MB/s | 28/28 |
+| 8 | 🇺🇸 美国 001 | ss | 410 ms | 1,338 ms | 8.96 MB/s | 28/28 |
+| 9 | 🇺🇸 美国 002 | ss | 482 ms | 1,186 ms | 10.01 MB/s | 28/28 |
+| 10 | 🇺🇸 美国 003 | ss | 493 ms | 987 ms | 9.18 MB/s | 28/28 |
+| 11 | 🇺🇸 美国 004 | ss | 505 ms | 1,028 ms | 9.01 MB/s | 28/28 |
+| 12 | 🇺🇸 美国 005 | ss | 515 ms | 1,098 ms | 6.76 MB/s | 28/28 |
+| 13 | 🇨🇦 加拿大 01 | ss | 592 ms | 881 ms | 3.92 MB/s | 28/28 |
+| 14 | 🇳🇱 荷兰 01 | ss | 747 ms | 679 ms | 3.87 MB/s | 28/28 |
+| 15 | 🇨🇦 加拿大 02 | ss | 765 ms | 1,360 ms | 5.9 MB/s | 28/28 |
+| 16 | 🇳🇱 荷兰 02 | ss | 774 ms | 808 ms | 3.22 MB/s | 28/28 |
+| 17 | 🇳🇱 荷兰 03 | ss | 776 ms | 628 ms | 4.22 MB/s | 28/28 |
+| 18 | 🇳🇱 荷兰 04 | ss | 783 ms | 609 ms | 3.81 MB/s | 28/28 |
+| 19 | 🇨🇦 加拿大 03 | ss | 787 ms | 1,543 ms | 6.09 MB/s | 28/28 |
+| 20 | 🇳🇱 荷兰 05 | ss | 799 ms | 659 ms | 3.8 MB/s | 28/28 |
+| 21 | 🇬🇧 英国 01 | ss | 973 ms | 1,012 ms | 4.32 MB/s | 28/28 |
+| 22 | 🇬🇧 英国 02 | ss | 999 ms | 1,106 ms | 4.33 MB/s | 28/28 |
+| 23 | 🇬🇧 英国 03 | ss | 1,045 ms | 1,049 ms | 4.26 MB/s | 28/28 |
+| 24 | 🇩🇪 德国 01 | ss | 1,064 ms | 1,164 ms | 3.8 MB/s | 28/28 |
+| 25 | 🇬🇧 英国 04 | ss | 1,101 ms | 1,307 ms | 4.17 MB/s | 28/28 |
+| 26 | 🇬🇧 英国 05 | ss | 1,110 ms | 1,016 ms | 4.24 MB/s | 28/28 |
+| 27 | 🇧🇬 保加利亚 01 | ss | 1,157 ms | 693 ms | 3.31 MB/s | 28/28 |
+| 28 | 🇧🇬 保加利亚 02 | ss | 1,204 ms | — | 3.69 MB/s | 28/28 |
+| 29 | 🇮🇳 印度 01 | ss | 4,756 ms | 2,101 ms | 1.05 MB/s | 28/28 |
+| 30 | 🇦🇹 奥地利 01 | ss | 892 ms | 731 ms | — | 26/26 |
 
 ### 复制全部节点
 
 复制下面的内容，在 v2rayN / v2rayNG 里选“从剪贴板导入”，小火箭会自动识别剪贴板。
 
 ```text
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.1.186.73:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.199.172.224:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.199.172.224:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2001
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2002
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.240:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2004
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.234:4652#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2002
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.236:8080#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.234:4652#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2002
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@95.215.201.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.197:8080#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@79.110.54.250:8080#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20003
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20004
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.9:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20005
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20004
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.215.132.18:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20005
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2002
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.197.141.58:8080#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2003
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2002
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.215:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2001
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.197.141.58:8080#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2002
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.205:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2004
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%2003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.39:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2005
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.206.9:19999#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2001
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2004
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%2005
-ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ@213.183.63.60:9049#%F0%9F%87%A7%F0%9F%87%AC%20%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%2001
-ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%AC%20%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%2002
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@98.98.142.161:8080#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2002
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.18:8080#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2003
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.46.199:8080#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2004
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.20.147:8080#%F0%9F%87%A9%F0%9F%87%AA%20%E5%BE%B7%E5%9B%BD%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@98.98.207.163:8080#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2005
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#%F0%9F%87%B3%F0%9F%87%B4%20%E6%8C%AA%E5%A8%81%2001
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.46.214:8080#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2004
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%2005
+ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ@213.183.63.60:9049#%F0%9F%87%A7%F0%9F%87%AC%20%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%2001
+ss://YWVzLTI1Ni1jZmI6NFIzaFVmWjJGSGhEbU5jUA@213.183.63.60:9061#%F0%9F%87%A7%F0%9F%87%AC%20%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%2002
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%2001
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZGF3ZmZGTUh5bWxhc1JiMFZPUDNIRmY3c1RHNXNKeA==@152.53.1.57:8388#%F0%9F%87%A6%F0%9F%87%B9%20%E5%A5%A5%E5%9C%B0%E5%88%A9%2001
 ```
 
 ## 常见问题
