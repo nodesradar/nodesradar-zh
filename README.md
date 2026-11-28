@@ -1,6 +1,6 @@
 # 免费节点雷达 · 每 6 小时实测的免费节点
 
-> 最后更新：2026-11-27 22:26（北京时间）
+> 最后更新：2026-11-28 08:34（北京时间）
 
 每天从公开渠道收集免费的 V2Ray、VLESS、VMess、Shadowsocks、SSR、Trojan、Hysteria2 节点，逐个通过节点访问 Google 做真实测试，按国家地区命名、按稳定性排序，提供 Clash、v2rayN、v2rayNG、小火箭、Hiddify、sing-box 可直接使用的订阅。
 
@@ -20,72 +20,72 @@
 
 | # | 节点 | 协议 | 延迟 🇯🇵 日本 | 延迟 🇸🇬 新加坡 | 速度 | 稳定 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | 🇯🇵 日本 01 | hysteria2 | 169 ms | 362 ms | — | 28/28 |
-| 2 | 🇹🇼 台湾 01 | hysteria2 | 178 ms | 627 ms | 2.18 MB/s | 28/28 |
-| 3 | 🇹🇼 台湾 02 | hysteria2 | 180 ms | 210 ms | 3.49 MB/s | 28/28 |
-| 4 | 🇹🇼 台湾 03 | hysteria2 | 181 ms | 258 ms | 3.4 MB/s | 28/28 |
-| 5 | 🇹🇼 台湾 04 | hysteria2 | 213 ms | 443 ms | 2.12 MB/s | 28/28 |
-| 6 | 🇹🇼 台湾 05 | hysteria2 | 224 ms | 408 ms | 2.04 MB/s | 28/28 |
-| 7 | 🇰🇷 韩国 01 | hysteria2 | 239 ms | 486 ms | 5.82 MB/s | 28/28 |
-| 8 | 🇭🇰 香港 01 | hysteria2 | 242 ms | 141 ms | 1.24 MB/s | 28/28 |
-| 9 | 🇰🇷 韩国 02 | hysteria2 | 247 ms | 510 ms | 1.83 MB/s | 28/28 |
-| 10 | 🇰🇷 韩国 03 | hysteria2 | 250 ms | 435 ms | 5.49 MB/s | 28/28 |
-| 11 | 🇰🇷 韩国 04 | hysteria2 | 250 ms | 489 ms | 2.14 MB/s | 28/28 |
-| 12 | 🇰🇷 韩国 05 | hysteria2 | 262 ms | 343 ms | 1.79 MB/s | 28/28 |
-| 13 | 🇭🇰 香港 02 | hysteria2 | 286 ms | 296 ms | 1.78 MB/s | 28/28 |
-| 14 | 🇸🇬 新加坡 01 | ss | 289 ms | 174 ms | 0.94 MB/s | 28/28 |
-| 15 | 🇭🇰 香港 03 | hysteria2 | 289 ms | 366 ms | 1.48 MB/s | 28/28 |
-| 16 | 🇸🇬 新加坡 02 | vmess | 289 ms | 164 ms | 1.11 MB/s | 28/28 |
-| 17 | 🇸🇬 新加坡 03 | ss | 297 ms | 418 ms | 12.87 MB/s | 28/28 |
-| 18 | 🇸🇬 新加坡 04 | hysteria2 | 303 ms | 106 ms | 2.73 MB/s | 28/28 |
-| 19 | 🇭🇰 香港 04 | hysteria2 | 308 ms | 233 ms | 1.5 MB/s | 28/28 |
-| 20 | 🇸🇬 新加坡 05 | hysteria2 | 311 ms | 318 ms | 2.35 MB/s | 28/28 |
-| 21 | 🇭🇰 香港 05 | hysteria2 | 355 ms | 200 ms | 1.48 MB/s | 28/28 |
-| 22 | 🇺🇸 美国 001 | hysteria2 | 400 ms | 522 ms | 9.46 MB/s | 28/28 |
-| 23 | 🇺🇸 美国 002 | ss | 401 ms | 560 ms | 9 MB/s | 28/28 |
-| 24 | 🇦🇺 澳大利亚 01 | hysteria2 | 410 ms | 816 ms | 4.6 MB/s | 28/28 |
-| 25 | 🇺🇸 美国 003 | ss | 419 ms | 634 ms | 0.75 MB/s | 28/28 |
-| 26 | 🇺🇸 美国 004 | vmess | 428 ms | 635 ms | 2.49 MB/s | 28/28 |
-| 27 | 🇺🇸 美国 005 | vmess | 433 ms | 2,909 ms | 9.49 MB/s | 28/28 |
-| 28 | 🇯🇵 日本 02 | hysteria2 | 444 ms | 250 ms | 0.09 MB/s | 28/28 |
-| 29 | 🇫🇷 法国 01 | hysteria2 | 516 ms | 816 ms | 5.11 MB/s | 28/28 |
-| 30 | 🇨🇦 加拿大 01 | vmess | 554 ms | 910 ms | 1.02 MB/s | 28/28 |
+| 1 | 🇯🇵 日本 01 | hysteria2 | 145 ms | 973 ms | 0.22 MB/s | 28/28 |
+| 2 | 🇹🇼 台湾 01 | hysteria2 | 161 ms | 370 ms | 8.33 MB/s | 28/28 |
+| 3 | 🇭🇰 香港 01 | hysteria2 | 169 ms | 225 ms | 0.98 MB/s | 28/28 |
+| 4 | 🇭🇰 香港 02 | hysteria2 | 172 ms | 331 ms | 1 MB/s | 28/28 |
+| 5 | 🇭🇰 香港 03 | hysteria2 | 198 ms | 258 ms | 4.73 MB/s | 28/28 |
+| 6 | 🇰🇷 韩国 01 | hysteria2 | 209 ms | 355 ms | 3.16 MB/s | 28/28 |
+| 7 | 🇹🇼 台湾 02 | hysteria2 | 213 ms | 541 ms | 9.82 MB/s | 28/28 |
+| 8 | 🇹🇼 台湾 03 | hysteria2 | 213 ms | 374 ms | 8.79 MB/s | 28/28 |
+| 9 | 🇹🇼 台湾 04 | hysteria2 | 227 ms | 283 ms | 9.57 MB/s | 28/28 |
+| 10 | 🇸🇬 新加坡 01 | vmess | 251 ms | 370 ms | 1.07 MB/s | 28/28 |
+| 11 | 🇸🇬 新加坡 02 | vmess | 257 ms | 409 ms | 0.88 MB/s | 28/28 |
+| 12 | 🇹🇼 台湾 05 | hysteria2 | 269 ms | 246 ms | 8.85 MB/s | 28/28 |
+| 13 | 🇸🇬 新加坡 03 | vmess | 270 ms | 123 ms | 0.93 MB/s | 28/28 |
+| 14 | 🇭🇰 香港 04 | hysteria2 | 291 ms | 383 ms | 1.65 MB/s | 28/28 |
+| 15 | 🇭🇰 香港 05 | hysteria2 | 292 ms | 188 ms | 0.06 MB/s | 28/28 |
+| 16 | 🇸🇬 新加坡 04 | ss | 296 ms | 147 ms | 0.91 MB/s | 28/28 |
+| 17 | 🇸🇬 新加坡 05 | vmess | 303 ms | 151 ms | 0.93 MB/s | 28/28 |
+| 18 | 🇰🇷 韩国 02 | hysteria2 | 314 ms | 467 ms | 2.48 MB/s | 28/28 |
+| 19 | 🇰🇷 韩国 03 | hysteria2 | 350 ms | 509 ms | 2.57 MB/s | 28/28 |
+| 20 | 🇺🇸 美国 001 | ss | 367 ms | 599 ms | 9.63 MB/s | 28/28 |
+| 21 | 🇰🇷 韩国 04 | ss | 369 ms | 558 ms | 0.52 MB/s | 28/28 |
+| 22 | 🇰🇷 韩国 05 | hysteria2 | 370 ms | 509 ms | 2.67 MB/s | 28/28 |
+| 23 | 🇯🇵 日本 02 | hysteria2 | 384 ms | 1,103 ms | 0.36 MB/s | 28/28 |
+| 24 | 🇺🇸 美国 002 | vmess | 390 ms | 674 ms | 11.08 MB/s | 28/28 |
+| 25 | 🇺🇸 美国 003 | ss | 397 ms | 984 ms | 0.72 MB/s | 28/28 |
+| 26 | 🇺🇸 美国 004 | hysteria2 | 428 ms | 1,012 ms | 2.01 MB/s | 28/28 |
+| 27 | 🇺🇸 美国 005 | vmess | 436 ms | 743 ms | 10.8 MB/s | 28/28 |
+| 28 | 🇹🇭 泰国 01 | vmess | 503 ms | 311 ms | 5.03 MB/s | 28/28 |
+| 29 | 🇫🇷 法国 01 | hysteria2 | 506 ms | 509 ms | 5.21 MB/s | 28/28 |
+| 30 | 🇫🇷 法国 02 | hysteria2 | 509 ms | 669 ms | 0.3 MB/s | 28/28 |
 
 ### 复制全部节点
 
 复制下面的内容，在 v2rayN / v2rayNG 里选“从剪贴板导入”，小火箭会自动识别剪贴板。
 
 ```text
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=8.211.175.236#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=whatsapp.com#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=off#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2002
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@160.187.100.109:443?insecure=1&sni=vpn-tw-002.fastervpn.world#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2003
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=www.bing.com#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2004
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=google.com#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2005
-hysteria2://maintell@152.70.237.123:2053?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=off#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=152-67-200-82.liao.kdns.fr#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2002
-hysteria2://maintell@152.70.237.123:2053?insecure=1&sni=bing.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2003
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2004
-hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=google.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2005
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=vk.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.106.74:19999#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2001
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=t.me#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2003
-vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJwb3J0IjogIjE4MDAwIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInYiOiAiMiIsICJwcyI6ICLwn4e48J+HrCDmlrDliqDlnaEgMDIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgInR5cGUiOiAibm9uZSIsICJzZXJ2ZXJQb3J0IjogMCwgIm5hdGlvbiI6ICIifQ==
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@15.235.164.133:19999#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=138.2.73.238#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2004
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2004
-hysteria2://f87376e17da040ed04c9665ce8972930@138.2.73.238:50160?insecure=1&sni=www.bing.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2005
-hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=t.me#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2005
-hysteria2://4afd4e1b1b0edd429b10d800a1cf64a7@47.89.232.46:8443?insecure=1&sni=hysteria2.local#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20001
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.150.152.38:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20002
-hysteria2://633bc3be486b646190661ac2387c150a@152.67.115.203:443?insecure=1&obfs=salamander&obfs-password=850a3fb1cd33a28f12d837578ae1a2e7&sni=www.bing.com#%F0%9F%87%A6%F0%9F%87%BA%20%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%2001
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2001
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=css.rbxcdn.com#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2001
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=202.146.222.174#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2001
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1&sni=off#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2002
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443?insecure=1&sni=202.146.222.89#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2003
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=off#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2001
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1&sni=t.me#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2002
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=off#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2003
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-tw-002.fastervpn.world:443?insecure=1&sni=whatsapp.com#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2004
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuPCfh6wg5paw5Yqg5Z2hIDAxIiwgImFkZCI6ICIxNDkuODguMjMuMjA3IiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJ0bHMiOiAiIn0=
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICLwn4e48J+HrCDmlrDliqDlnaEgMDIiLCAic25pIjogIjE0OS44OC4yMy4yMDciLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443?insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20%E5%8F%B0%E6%B9%BE%2005
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwNyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJlY2giOiAiIiwgImZwIjogIiIsICJob3N0IjogIi8/VGVsZWdyYW0tLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQtLS1QTEFOQl9ORVQiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImluc2VjdXJlIjogIiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBjcyI6ICIiLCAicG9ydCI6ICIxODAwMCIsICJwcXYiOiAiIiwgInBzIjogIvCfh7jwn4esIOaWsOWKoOWdoSAwMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443?insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2004
+hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%2005
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@149.88.107.47:19999#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2004
+vmess://eyJhZGQiOiAiMTQ5Ljg4LjIzLjIwMiIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogbnVsbCwgImhvc3QiOiAiIiwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJuYW1lIjogIlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMTgwMDAsICJwcyI6ICLwn4e48J+HrCDmlrDliqDlnaEgMDUiLCAic2N5IjogImF1dG8iLCAic25pIjogbnVsbCwgInRscyI6ICJub25lIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGx9
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=whatsapp.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2002
+hysteria2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160?insecure=1&sni=css.rbxcdn.com#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2003
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@23.150.152.38:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20001
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2004
+hysteria2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160?insecure=1&sni=132.226.226.189#%F0%9F%87%B0%F0%9F%87%B7%20%E9%9F%A9%E5%9B%BD%2005
+hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=8.211.175.236#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2002
+vmess://eyJhZGQiOiAiODQuMTcuNDEuMiIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjE4MDAwIiwgInBzIjogIvCfh7rwn4e4IOe+juWbvSAwMDIiLCAic2N5IjogIm5vbmUiLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@169.197.142.68:19999#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20003
-vmess://eyJhZGQiOiAiODQuMTcuNDEuMiIsICJhaWQiOiAwLCAiaG9zdCI6ICJiajFhYTJ6eWp4eWFteXVrLnYuM2Rucy52aXAiLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICIxODAwMCIsICJwcyI6ICLwn4e68J+HuCDnvo7lm70gMDA0IiwgInNuaSI6ICJiajFhYTJ6eWp4eWFteXVrLnYuM2Rucy52aXAiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
-vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7gg576O5Zu9IDAwNSIsICJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLCAicG9ydCI6IDE4MDAwLCAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAicmF3IiwgInR5cGUiOiAiIiwgInRscyI6ICIifQ==
-hysteria2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1&sni=bing.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%2002
+hysteria2://gf1%3Agfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20004
+vmess://eyJ2IjogIjIiLCAicHMiOiAi8J+HuvCfh7gg576O5Zu9IDAwNSIsICJhZGQiOiAiODQuMTcuNDEuMiIsICJwb3J0IjogMTgwMDAsICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICIiLCAidGxzIjogIiJ9
+vmess://eyJhZGQiOiAiMTE5LjQ2LjUxLjQ1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5Yjc2YmMzMS0xN2E1LTQ0NTQtOTM0YS04ZDVmYjYwMmNkNzAiLCAibmV0IjogIm5vbmUiLCAicGF0aCI6ICIiLCAicG9ydCI6ICIzNzUxNSIsICJwcyI6ICLwn4e58J+HrSDms7Dlm70gMDEiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
 hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.147.2:43115?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2001
-vmess://eyJ2IjogbnVsbCwgInBzIjogIvCfh6jwn4emIOWKoOaLv+WkpyAwMSIsICJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwgInBvcnQiOiAxODAwMCwgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiBudWxsLCAiaG9zdCI6IG51bGwsICJhbHBuIjogbnVsbCwgInBhdGgiOiAiL0BQcm94eVZQTjExIiwgInRscyI6ICJub25lIiwgInNuaSI6IG51bGwsICJmcCI6IG51bGwsICJuYW1lIjogIkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDhGOEFCOCJ9
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@62.210.7.139:60111?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2002
 ```
 
 ## 常见问题
